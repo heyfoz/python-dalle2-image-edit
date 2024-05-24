@@ -32,7 +32,7 @@ Ensure you have the following installed before running this script:
 
 1. Install Python from [Python's official website](https://www.python.org/downloads/).
 2. Ensure you have access to a terminal or command prompt for executing Python scripts.
-3. Set up an environment variable `OPEN_API_KEY2` with your OpenAI API key.
+3. Set up an environment variable `OPEN_API_KEY` with your OpenAI API key.
 
 ## Usage
 
