@@ -8,7 +8,7 @@ This Python script enables users to interact with OpenAI's DALL-E 2 API for imag
 The images generated or edited by the DALL-E 2 API are typically available immediately after the request. However, it's important to handle the data responsibly and in accordance with OpenAI's use case policies.
 
 ## Authentication
-The script requires an API key from OpenAI for authentication. Before running the script, you must set up an environment variable `OPEN_API_KEY2` with your OpenAI API key. Retrieve your API key from the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
+The script requires an API key from OpenAI for authentication. Before running the script, you must set up an environment variable `OPEN_API_KEY` with your OpenAI API key. Retrieve your API key from the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
 
 For assistance on setting up environment variables:
 - On Windows, see Microsoft's guide on [Environment Variables](https://learn.microsoft.com/en-us/windows/win32/procthread/environment-variables).
